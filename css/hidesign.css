@@ -1,0 +1,6 @@
+#phone_h{width: 1349px;height: 300px;position: absolute;top: 55px;left: -334px;background: #fff;z-index: 20;border-top: 1px solid #a4a4a4;}
+.phone_father{position: relative;}
+
+#phone_h>ul>li>a{font-size: 14px;line-height: 30px;padding: 5px 12px 0 0;color: #717171;}
+#phone_h>ul>li{float: left;}
+#phone_h>ul{width: 1200px;margin: 0 auto;}
